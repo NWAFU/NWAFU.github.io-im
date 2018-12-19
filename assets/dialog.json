@@ -35,7 +35,7 @@
             "content": "你是谁？",
             "nextXianzhe": ["0004"]
         }, {
-            "content": "羡辙是什么意思？",
+            "content": "6学是什么意思？",
             "nextXianzhe": ["0005"]
         }, {
             "content": "问什么都可以吗？",
@@ -44,13 +44,13 @@
     }, {
         "id": "0004",
         "details": [
-            ["唔……", "这是个哲学问题……", "在我想出这个问题的答案前，我想，你还是先叫我羡辙吧！"]
+            ["唔……", "这是个哲学问题……", "在我想出这个问题的答案前，我想，你还是先叫我六老师吧！"]
         ],
         "nextXianzhe": ["0005"]
     }, {
         "id": "0005",
         "details": [
-            ["羡辙是我在阿里实习时候起的花名，具体参见这篇文章", "<a href='http://zhangwenli.com/blog/2015/04/29/new-name/'>http://zhangwenli.com/blog/2015/04/29/new-name</a>"]
+            ["6老师是我在西游记时起的，具体参见这篇文章", "<a href='http://github.com/nwsuafzq/'>!!</a>"]
         ],
         "responses": [{
             "content": "你的职业是？",
