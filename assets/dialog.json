@@ -74,7 +74,7 @@
         "details": [
             [
                 "我经常觉得自己挺无聊的……",
-                "无聊的时候，会读书、弹尤克里里、画画（全靠脑洞）、拉小提琴（很久没碰）、拍拍照片（但宅在家里怎么破）等等",
+                "无聊的时候，会读书、吉他、画画（全靠脑洞）、拉小提琴（很久没碰）、拍拍照片（但宅在家里怎么破）等等",
                 "有点三分钟热度，所以接触的兴趣爱好倒不少，就是都没啥特别厉害的~"
             ]
         ],
@@ -97,7 +97,7 @@
             ["哈哈哈，你猜？"]
         ],
         "responses": [{
-            "content": "羡辙这么可爱，一定是男孩纸吧！所以…应该有女朋友！",
+            "content": "你这么可爱，一定是男孩纸吧！所以…应该有女朋友！",
             "nextXianzhe": ["0015"]
         }, {
             "content": "就算你有，也千万别告诉我！",
@@ -112,7 +112,7 @@
             ["想要我给你推荐一点好书吗？"]
         ],
         "responses": [{
-            "content": "好啊！羡辙推荐的书一定很棒~",
+            "content": "好啊！你推荐的书一定很棒~",
             "nextXianzhe": ["0011"]
         }, {
             "content": "算了，我不是很感兴趣……",
@@ -229,7 +229,7 @@
     }, {
         "id": "0023",
         "details": [
-            ["唔，我是一个程序媛", "准确地说，是在百度工作的前端工程师"]
+            ["唔，我是你马", "准确地说，是在百度工作的工程师"]
         ],
         "responses": [{
             "content": "嗯哼~ 百度？",
@@ -241,7 +241,7 @@
     }, {
         "id": "0024",
         "details": [
-            ["是的", "我在百度 ECharts 团队做可视化相关的工作"]
+            ["是的", "我在百度 地图 团队做大数据相关的工作"]
         ],
         "responses": [{
             "content": "听起来很有意思~ 可以具体跟我说说你做了什么吗？",
@@ -342,8 +342,8 @@
         "details": [
             [
                 "虽然目前没有换工作的打算，不过对于有趣的工作机会保持开放态度",
-                "我的简历可以在 <a href='http://www.linkedin.com/in/wenlizhang/'>LinkedIn</a> 查看",
-                "如果能在意我的想法，发挥我的脑洞和技术特长，欢迎邮件至 <a href='mailto:me@zhangwenli.com'>me@zhangwenli.com</a> 勾搭~",
+                "我的简历可以在 <a href='http://www.linkedin.com//'>LinkedIn</a> 查看",
+                "如果能在意我的想法，发挥我的脑洞和技术特长，欢迎邮件至zq@nwafulive.cn</a> 勾搭~",
                 "其实不是程序员的职位，也挺不错的嘛~"
             ]
         ],
@@ -370,7 +370,7 @@
     }, {
         "id": "0035",
         "details": [
-            ["对了，本站的动画效果都是<del>男朋友</del><ins>老公</ins>帮我写的", "<a href='https://github.com/devyumao'>GitHub</a> 和<a href='http://weibo.com/u/2769530531'>微博</a> ID 都是 devyumao"]
+            ["对了，本站的动画效果都是<del>自己</del><ins>老公</ins>写的", "<a href='https://github.com/nwsuafzq'>GitHub</a>"]
         ],
         "responses": [{
             "content": "这恩爱秀得……行行行，狗粮费拿去就是！",
@@ -389,7 +389,7 @@
         "details": [
             [
                 "嘿嘿嘿，这是我想读的书",
-                "<a href='https://book.douban.com/people/ovilia1024/wish'>https://book.douban.com/people/ovilia1024/wish</a>",
+                "<a href='https://book.douban.com/'>https://book.douban.com/</a>",
                 "如果愿意的话，可以给我支付宝转账打赏，多少随意哈！",
                 "<img src='img/zhifu.png'>"
             ]
@@ -417,7 +417,7 @@
     }, {
         "id": "0039",
         "details": [
-            ["谢主隆恩！！！", "嘿嘿，圣诞节我会寄来自制明信片，打赏后可以发邮件告诉我你的收信地址", "<a href='mailto:me@zhangwenli.com'>me@zhangwenli.com</a>"]
+            ["谢主隆恩！！！", "嘿嘿，圣诞节我会寄来自制明信片，打赏后可以发邮件告诉我你的收信地址", "<a href='mailto:zq@nwafulive.cn'>zq@nwafulive.cn</a>"]
         ],
         "responses": [{
             "content": "好哒！"
@@ -434,7 +434,7 @@
         "id": "0041",
         "details": [
             [
-                "我最近做了一个名叫“牙哈哈心情日记”的 iOS 应用，可以用来记录每天的心情~",
+                "我最近做了一个名叫“消毒涂鸦”的 安卓 应用，可以用来记录每天的心情~",
                 "<img src='img/gooday.jpg'>",
                 "很可爱吧？\\(^o^)/~"
             ]
@@ -443,7 +443,7 @@
             "content": "哇，有意思！哪里可以下载？",
             "nextXianzhe": ["0042"]
         }, {
-            "content": "没有安卓？差评啊~",
+            "content": "没有ios？差评啊~",
             "nextXianzhe": ["0043"]
         }, {
             "content": "……",
@@ -453,8 +453,8 @@
         "id": "0042",
         "details": [
             [
-                "可以在苹果商店搜索“牙哈哈”，或是扫下面的二维码。谢谢支持！",
-                "<img src='img/gooday-qr.png'>"
+                "可以在百度搜索“小度涂鸦”，谢谢支持！",
+               
             ]
         ],
         "nextXianzhe": ["0003"]
